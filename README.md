@@ -1,2 +1,2 @@
-# ethical_doe
-sample project using java
+# ethical_betta
+sample project using c++
