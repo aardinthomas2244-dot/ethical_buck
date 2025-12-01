@@ -1,2 +1,2 @@
-# ethical_buck
-sample project using python
+# ethical_doe
+sample project using java
